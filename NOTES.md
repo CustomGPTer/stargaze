@@ -1,17 +1,19 @@
-StarGaze 1.0.1
+StarGaze 2.0.0
 
-The first public release of StarGaze, a private night-sky app that works offline.
+A new sky for StarGaze, the private night-sky app that works offline.
 
-- 119,625 stars, 89,868 deep-sky objects (all 110 Messier objects) and the 88 constellations with lines, boundaries, asterisms and western artwork, all on your phone.
-- The Sun, Moon and planets for any date from 1900 to 2100, drawn at their true size when you zoom in, with the Moon's lit side facing the Sun.
-- Tonight shows the Moon at tonight's phase, sunset, full darkness and the best targets above your horizon.
-- Phone pointing, and an optional camera view that fills the screen without stretching, works sideways too and matches the camera's field of view.
-- Search, 24-hour altitude views, a sky calendar with reminders, guided journeys, a photo planner and a private observing journal with photos.
-- Optional online extras, all off until you switch them on: Gaia DR3 stars, SIMBAD, NASA JPL objects, survey photos, weather, satellite passes and 37 more sky cultures.
-- New in this version: Check for updates, More apps and the StarGaze website in Settings; an adaptive app icon; a proper reminder icon; a pill behind the selected tab on a solid bottom bar; and several fixes.
+- Constellation drawings pinned to their stars, with the constellation in the middle of the screen shown on its own, so the sky is never cramped.
+- Detail grows as you zoom: fainter stars, then galaxy, nebula and cluster markers, then names. Labels no longer overlap.
+- 2.5 million stars offline, a real photograph of the Milky Way, and real photographs of 320 galaxies, nebulae and clusters.
+- The Moon and planets as lit globes with detailed surfaces and true phases.
+- A real ground: field with trees, rolling hills, open moor or winter snowfield, or trace your own skyline.
+- A realistic sky by day, at sunset and through twilight.
+- Full-screen sky with a round whole-sky view, and a new time panel to slide through the night and jump to sunset, darkness, moonrise, sunrise or the next full Moon.
+- Tap anything for its brightness, height and rise and set times; an arrow points the way to it.
+- Eyepiece view, automatic red night mode, smoother phone pointing and four new guided tours.
 
-Installs over 1.0.0 and keeps your journal, list and settings.
+Installs over 1.0.1 and keeps your journal, list and settings.
 
-StarGaze.apk is 11.6 MB (12,204,775 bytes). Android 11 or later.
+StarGaze.apk is 60.6 MB (63,583,943 bytes). Android 11 or later.
 
 Website: https://customgpter.github.io/stargaze/

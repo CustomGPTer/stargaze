@@ -1,8 +1,7 @@
-StarGaze 2.0.3 ties the app into TorusApps.com.
+StarGaze 2.0.4: follow satellites, and a tidier deep sky.
 
-- Website, update and privacy links now go to torusapps.com, with hello@torusapps.com in Settings and About.
-- Check for updates reads torusapps.com's signed catalogue and opens StarGaze's page when a newer version is listed. Nothing downloads inside the app.
-- More apps opens torusapps.com in your browser.
-- Android 12+ splash uses the night-sky background, so there is no white flash before the opening screen.
+- Tap a satellite and the view follows it, so it stays in the middle however far you zoom in while the stars slide past. Tap it again, tap Stop following or drag the sky to let go.
+- Deep-sky objects you download from SIMBAD now fade in as you zoom, like the built-in ones, and are only named when you are zoomed right in. No more ring of labels.
+- Downloaded SIMBAD objects can now be removed (Explore > catalogue, or Clear downloaded field cache).
 
 Installs over the earlier version and keeps everything.
